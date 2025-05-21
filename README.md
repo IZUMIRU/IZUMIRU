@@ -33,7 +33,7 @@ I'm a frontend-oriented engineer crafting user-friendly products with a full-sta
     align-items: center;
     justify-content: center;
   ">
-    <img src="https://tanstack.com/favicon.ico" alt="TanStack Query" width="36" height="36" />
+    <img src="./images/tanstack.png" alt="TanStack Query" width="36" style="background-color: #242938;" />
   </span>
   <span style="
     width: 48px;
@@ -44,7 +44,7 @@ I'm a frontend-oriented engineer crafting user-friendly products with a full-sta
     align-items: center;
     justify-content: center;
   ">
-    <img src="https://jotai.org/favicon.svg" alt="Jotai" width="36" height="36" />
+    <img src="./images/jotai.png" alt="Jotai" width="36" style="background-color: #242938;" />
   </span>
   <span style="
     width: 48px;
@@ -55,7 +55,7 @@ I'm a frontend-oriented engineer crafting user-friendly products with a full-sta
     align-items: center;
     justify-content: center;
   ">
-    <img src="https://recoiljs.org/img/logo.svg" alt="Recoil" width="36" height="36" />
+    <img src="./images/recoil.png" alt="Recoil" width="36" style="background-color: #242938;" />
   </span>
   <img src="https://skillicons.dev/icons?i=redux" alt="Redux" />
   <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" />
@@ -71,7 +71,7 @@ I'm a frontend-oriented engineer crafting user-friendly products with a full-sta
     align-items: center;
     justify-content: center;
   ">
-    <img src="https://storybook.js.org/icon.svg" alt="Storybook" width="36" height="36" />
+    <img src="./images/storybook.png" alt="Storybook" height="36" style="background-color: #242938;" />
   </span>
   <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
 </div>
