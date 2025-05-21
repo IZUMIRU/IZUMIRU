@@ -24,55 +24,15 @@ I'm a frontend-oriented engineer crafting user-friendly products with a full-sta
   <img src="https://skillicons.dev/icons?i=gatsby" alt="Gatsby" />
   <img src="https://skillicons.dev/icons?i=vite" alt="Vite" />
   <img src="https://skillicons.dev/icons?i=vitest" alt="Vitest" />
-  <span style="
-    width: 48px;
-    height: 48px;
-    background-color: #242938;
-    border-radius: 12px;
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-  ">
-    <img src="./images/tanstack.png" alt="TanStack Query" width="36" style="background-color: #242938;" />
-  </span>
-  <span style="
-    width: 48px;
-    height: 48px;
-    background-color: #242938;
-    border-radius: 12px;
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-  ">
-    <img src="./images/jotai.png" alt="Jotai" width="36" style="background-color: #242938;" />
-  </span>
-  <span style="
-    width: 48px;
-    height: 48px;
-    background-color: #242938;
-    border-radius: 12px;
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-  ">
-    <img src="./images/recoil.png" alt="Recoil" width="36" style="background-color: #242938;" />
-  </span>
+  <img src="./images/tanstack.png" alt="TanStack Query" width="48" />
+  <img src="./images/jotai.png" alt="Jotai" width="48" />
+  <img src="./images/recoil.png" alt="Recoil" width="48" />
   <img src="https://skillicons.dev/icons?i=redux" alt="Redux" />
   <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" />
   <img src="https://skillicons.dev/icons?i=nuxt" alt="Nuxt.js" />
   <img src="https://skillicons.dev/icons?i=bun" alt="Bun" />
   <img src="https://skillicons.dev/icons?i=pnpm" alt="pnpm" />
-  <span style="
-    width: 48px;
-    height: 48px;
-    background-color: #242938;
-    border-radius: 12px;
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-  ">
-    <img src="./images/storybook.png" alt="Storybook" height="36" style="background-color: #242938;" />
-  </span>
+  <img src="./images/storybook.png" alt="Storybook" height="48" />
   <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
 </div>
 
